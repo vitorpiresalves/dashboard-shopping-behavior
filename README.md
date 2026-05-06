@@ -6,7 +6,7 @@ Dashboard desenvolvido no **Power BI** para análise do comportamento de compra 
 
 ## Páginas
 
-### Overview
+### 📊 Overview
 ![Overview](1overview.png)
 
 Visão geral com os principais indicadores e distribuições agregadas com valores em Dólar.
@@ -54,13 +54,13 @@ Todas as páginas contam com filtros interativos de **Location** e **Discount**,
 
 ---
 
-## Ferramentas
+## 📦 Ferramentas
 
 - Power BI Desktop
 - Dataset: Customer Shopping Behaviour Analysis — [Kaggle](https://www.kaggle.com/datasets/ankitrajmishra/customer-shopping-behaviour-analysis)
 ---
 
-## Contato
+## 📧 Contato
 
 **Vitor Fernando Pires Alves**
 - **Email:** vitor.fpiresalves@gmail.com
