@@ -65,4 +65,3 @@ Todas as páginas contam com filtros interativos de **Location** e **Discount**,
 **Vitor Fernando Pires Alves**
 - **Email:** vitor.fpiresalves@gmail.com
 - **LinkedIn:** [linkedin.com/in/vitor-fernando-pires-alves](https://www.linkedin.com/in/vitor-fernando-pires-alves)
-- **GitHub:** [github.com/vitorpiresalves](https://github.com/vitorpiresalves)
